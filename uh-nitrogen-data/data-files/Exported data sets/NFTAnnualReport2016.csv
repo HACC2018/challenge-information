@@ -1,0 +1,17 @@
+"Fiscal Year",Scope,Source,"N2O (kg)","NOx (kg)","Other N (kg)","Total N (metric tons N)"
+2016,1,"Direct Transportation",29,903,0,0.29
+2016,1,"Fertilizer & Animals",0,0,5,0.01
+2016,2,"Purchased Electricity","1,296","139,939",0,43.42
+2016,3,"Staff Commuting",217,"4,881",0,1.62
+2016,3,"Student Commuting",105,"2,270",0,0.76
+2016,3,"Directly Financed Air Travel",4,131,0,0.04
+2016,3,"T&D Losses",71,"7,645",0,2.37
+2016,3,Food,0,0,"34,326",34.33
+
+"Fiscal Year",Scope,"N2O (kg)","NOx (kg)","Other N (kg)","Total N (metric tons N)"
+2016,1,29,903,5,0.30
+2016,2,"1,296","139,939",0,43.42
+2016,3,397,"14,927","34,326",39.12
+
+"Fiscal Year","N2O (kg)","NOx (kg)","Other N (kg)","Gross N (metric tons)","Offsets (metric tons N)","Compost (metric tons N)","Non-Additional Sequestration (metric tons N)","Net N (metric tons N)"
+2016,"1,722","155,769","34,331",82.83,0.00,0.00,0.00,82.83
