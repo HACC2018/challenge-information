@@ -1,0 +1,27 @@
+Looking for ways to utilize and exploit the data to que facilities manager to take some action or provide explanation for discovery.
+
+Anomolies
+-a building or zone is not behaving the way it usually does
+-a buiding or zone is behaving differently then others
+-a building or zone changes at a different rate then others
+
+Status
+- a zones total usage in real time compared to the total campus usage
+- a building or zone side by side from the HVAC usage.  That is HVAC and non HVAC usage.
+
+efficiency
+-a buildings kwh per population, or sq ft, or enrollment
+- Usage by research type
+- usage by degree day
+
+
+Interface
+-Heat map
+-virtual interactive climb down into zones and discover what is contributing to this zone.
+-Status dashboards
+-Historical comparative analysis
+-predictive analysis
+-Solar/battery planning tool (building level, campus level)
+-Demand shaving, peak shifting planning
+-Efficiency project planning
+
